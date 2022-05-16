@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\bin\Debug\DiscordBot v2.exe.config
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\bin\Debug\DiscordBot v2.exe
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\bin\Debug\DiscordBot v2.pdb
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\bin\Debug\WebDriver.dll
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot_v2.Form1.resources
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot_v2.Properties.Resources.resources
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.csproj.CopyComplete
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.exe
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.pdb
+C:\Users\Admin\source\repos\DiscordBot v2\DiscordBot v2\obj\Debug\DiscordBot v2.csproj.SuggestedBindingRedirects.cache
